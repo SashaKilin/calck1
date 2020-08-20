@@ -1,0 +1,14 @@
+C:\Users\а\Desktop\C#\calck2\bin\Debug\calck2.exe.config
+C:\Users\а\Desktop\C#\calck2\bin\Debug\calck2.exe
+C:\Users\а\Desktop\C#\calck2\bin\Debug\calck2.pdb
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.csprojAssemblyReference.cache
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.Form1.resources
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.Properties.Resources.resources
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.csproj.GenerateResource.cache
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.csproj.CoreCompileInputs.cache
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.exe
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.pdb
+C:\Users\а\Desktop\C#\calck2\bin\Debug\calck2.exe.manifest
+C:\Users\а\Desktop\C#\calck2\bin\Debug\calck2.application
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.exe.manifest
+C:\Users\а\Desktop\C#\calck2\obj\Debug\calck2.application
